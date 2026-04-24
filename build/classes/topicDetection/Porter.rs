@@ -1,0 +1,2 @@
+topicDetection.Porter
+topicDetection.NewString
